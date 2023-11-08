@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692629148 source:c:\code_it001_ciut\baitap_nhapmon\struct\bai01\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<ctime>
+
